@@ -1,0 +1,200 @@
+{
+    "推荐":[
+        {
+            "img": "./img/1.jpg",
+            "price": "999"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "999"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "999"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "999"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "999"
+        }
+    ],
+    "手机":[
+        {
+            "img": "./img/1.jpg",
+            "price": "11"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "11"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "11"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "11"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "11"
+        }
+    ],
+    "智能":[
+        {
+            "img": "./img/1.jpg",
+            "price": "22"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "22"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "22"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "22"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "22"
+        }
+    ],
+    "电视":[
+        {
+            "img": "./img/1.jpg",
+            "price": "33"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "33"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "33"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "33"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "33"
+        }
+    ],
+    "电脑":[
+        {
+            "img": "./img/1.jpg",
+            "price": "44"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "44"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "44"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "44"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "44"
+        }
+    ],
+    "全网通":[
+        {
+            "img": "./img/1.jpg",
+            "price": "55"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "55"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "55"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "55"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "55"
+        }
+    ],
+    "iphone":[
+        {
+            "img": "./img/1.jpg",
+            "price": "66"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "66"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "66"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "66"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "66"
+        }
+    ],
+    "sunshine":[
+        {
+            "img": "./img/1.jpg",
+            "price": "7"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "7"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "7"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "7"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "7"
+        }
+    ],
+    "star":[
+        {
+            "img": "./img/1.jpg",
+            "price": "8"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "8"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "8"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "8"
+        },
+        {
+            "img": "./img/1.jpg",
+            "price": "8"
+        }
+    ]
+}

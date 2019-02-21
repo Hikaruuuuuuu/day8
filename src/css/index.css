@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; }
+
+html, body {
+  width: 100%;
+  height: 100%;
+  font-size: .18rem; }
+
+.wrap {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column; }
+  .wrap .header {
+    width: 100%;
+    height: .45rem;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    line-height: .45rem; }
+    .wrap .header .icon {
+      width: 30%; }
+    .wrap .header .inp {
+      width: 100%;
+      font-size: .14rem;
+      border: 1px solid #ccc; }
+  .wrap .main {
+    width: 100%;
+    flex: 1;
+    overflow: auto; }
+    .wrap .main .container {
+      width: 100%; }
+      .wrap .main .container .nav {
+        width: auto;
+        overflow-x: auto;
+        height: .45rem;
+        line-height: .45rem;
+        white-space: nowrap;
+        text-align: center; }
+        .wrap .main .container .nav span {
+          width: 100%;
+          padding: 0 3%; }
+      .wrap .main .container .img {
+        width: auto;
+        overflow-x: auto;
+        white-space: nowrap;
+        text-align: center; }
+        .wrap .main .container .img dl {
+          width: 30%;
+          padding: 3%;
+          display: inline-block; }
+  .wrap .footer {
+    width: 100%;
+    height: .45rem;
+    display: flex;
+    justify-content: space-around;
+    line-height: .45rem;
+    text-align: center; }
+    .wrap .footer span {
+      width: 100%; }
+    .wrap .footer .orange {
+      color: orange; }
+
+img {
+  width: 100%; }

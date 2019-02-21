@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="js/lib/rem.js"></script>
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+
+<body>
+    <div class="wrap">
+        <header class="header">
+            <span class="icon">💞</span>
+            <span class="inp">🔍搜索商品名称</span>
+            <span class="icon">💞</span>
+        </header>
+        <main class="main">
+            <div class="container">
+                <nav class="nav"></nav>
+                <div class="img">
+                    <dl>
+                        <dt><img src="./img/1.jpg"></dt>
+                        <dt>
+                        </dt>
+                        <dd>999</dd>
+                        <dd>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt><img src="./img/1.jpg"></dt>
+                        <dt>
+                        </dt>
+                        <dd>999</dd>
+                        <dd>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt><img src="./img/1.jpg"></dt>
+                        <dt>
+                        </dt>
+                        <dd>999</dd>
+                        <dd>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt><img src="./img/1.jpg"></dt>
+                        <dt>
+                        </dt>
+                        <dd>999</dd>
+                        <dd>
+                        </dd>
+                    </dl>
+                    <dl>
+                        <dt><img src="./img/1.jpg"></dt>
+                        <dt>
+                        </dt>
+                        <dd>999</dd>
+                        <dd>
+                        </dd>
+                    </dl>
+                </div>
+                <div class="content">
+                    <img src="./img/2.jpg" alt="">
+                    <img src="./img/2.jpg" alt="">
+                    <img src="./img/2.jpg" alt="">
+                    <img src="./img/2.jpg" alt="">
+                </div>
+            </div>
+        </main>
+        <footer class="footer">
+            <span class="orange">首页</span>
+            <span>分类</span>
+            <span>购物车</span>
+            <span>我的</span>
+        </footer>
+    </div>
+
+    <script src="js/lib/require.js"></script>
+    <script>
+        require(['./js/main'], () => {
+            require(['index'], (index) => {
+                index()
+            })
+        })
+    </script>
+</body>
+
+</html>
